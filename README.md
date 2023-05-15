@@ -3,6 +3,10 @@
 - [Installation](https://github.com/aramirezLox/gem#installation) <br>
     - [Add to project ruby on rails](https://github.com/aramirezLox/gem#add-to-project-ruby-on-rails) <br>
 - [Usage](https://github.com/aramirezLox/gem#Usage) <br>
+    - [Method Add](https://github.com/aramirezLox/gem#add) <br>
+    - [Method Remove](https://github.com/aramirezLox/gem#remove) <br>
+    - [Method Multiplication](https://github.com/aramirezLox/gem#multiplication) <br>
+    - [Method Divide](https://github.com/aramirezLox/gem#divide) <br>
 - [Development](https://github.com/aramirezLox/gem#development) <br>
 - [Contributing](https://github.com/aramirezLox/gem#contributing) <br>
 - [License](https://github.com/aramirezLox/gem#license) <br>
@@ -12,7 +16,7 @@
 
 Create calculator basic. The structure methods are `add of numbers, remove of numbers, multiplication of numbers, divide of numbers`. 
 
-In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. üt ypur Ruby code in the file `lib/calculator_gem`. To experiment with that code, run `bin/console` for an interactive prompt.
+You write Ruby code in the file `lib/calculator_gem`. To experiment with that code, run `bin/console` for an interactive prompt.
 
 ## Installation
 
