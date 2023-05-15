@@ -1,7 +1,7 @@
 # Table of Contents
 
 - [Installation](https://github.com/aramirezLox/gem#installation) <br>
-    - [Add to project ruby on rails](https://github.com/aramirezLox/gem#Add to project ruby on rails) <br>
+    - [Add to project ruby on rails](https://github.com/aramirezLox/gem#add to project ruby on rails) <br>
 - [Usage](https://github.com/aramirezLox/gem#Usage) <br>
 - [Development](https://github.com/aramirezLox/gem#development) <br>
 - [Contributing](https://github.com/aramirezLox/gem#contributing) <br>
