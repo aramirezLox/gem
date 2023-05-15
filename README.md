@@ -1,24 +1,46 @@
-# CalculatorGem
+# Table of Contents
 
-TODO: Delete this and the text below, and describe your gem
+- [Installation](https://github.com/aramirezLox/gem#installation) <br>
+    - [Add to project ruby on rails](https://github.com/aramirezLox/gem#Add to project ruby on rails) <br>
+- [Usage](https://github.com/aramirezLox/gem#Usage) <br>
+- [Development](https://github.com/aramirezLox/gem#development) <br>
+- [Contributing](https://github.com/aramirezLox/gem#contributing) <br>
+- [License](https://github.com/aramirezLox/gem#license) <br>
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/calculator_gem`. To experiment with that code, run `bin/console` for an interactive prompt.
+
+## CalculatorGem
+
+Create calculator basic. The structure methods are `add of numbers, remove of numbers, multiplication of numbers, divide of numbers`. 
+
+In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. üt ypur Ruby code in the file `lib/calculator_gem`. To experiment with that code, run `bin/console` for an interactive prompt.
 
 ## Installation
 
-TODO: Replace `UPDATE_WITH_YOUR_GEM_NAME_PRIOR_TO_RELEASE_TO_RUBYGEMS_ORG` with your gem name right after releasing it to RubyGems.org. Please do not do it earlier due to security reasons. Alternatively, replace this section with instructions to install your gem from git if you don't plan to release to RubyGems.org.
+### Add to project ruby on rails
+Add gem in `Gemfile` code `gem 'calculator_gA'`, after execute the command, in the console, `bundle install` to get the gem.  
 
 Install the gem and add to the application's Gemfile by executing:
 
-    $ bundle add UPDATE_WITH_YOUR_GEM_NAME_PRIOR_TO_RELEASE_TO_RUBYGEMS_ORG
+    $ bundle add calculator_gA
 
 If bundler is not being used to manage dependencies, install the gem by executing:
 
-    $ gem install UPDATE_WITH_YOUR_GEM_NAME_PRIOR_TO_RELEASE_TO_RUBYGEMS_ORG
+    $ gem install calculator_gA
 
 ## Usage
+"calculator_gem" proving 4 methods of calculator. Previus to usage methods is necesary add in the console `ruby irb`, after is necesary write `require 'calculator_gem'` for get access to methods.
 
-TODO: Write usage instructions here
+### Add
+After write commands for the usage, you write in the cli irb, `CalculatorGem::Calculator.add(numbers_to_add)`, CalculatorGem is module, Calculator is class and add is method. You can add the numbers that need.
+
+### Remove
+After write commands for the usage, you write in the cli irb, `CalculatorGem::Calculator.remove(numbers_to_remove)`, CalculatorGem is module, Calculator is class and remove is method. You can add the numbers that need. It this aplicate the rules of remove.
+
+### Multiplication 
+After write commands for the usage, you write in the cli irb, `CalculatorGem::Calculator.multiplication(numbers_to_multiply)`, CalculatorGem is module, Calculator is class and multiplication is method. You can add the numbers that need.
+
+### Divide
+After write commands for the usage, you write in the cli irb, `CalculatorGem::Calculator.divide(numbers_to_divide)`, CalculatorGem is module, Calculator is class and divide is method. You can add the numbers that need. It this aplicate rules of division.
 
 ## Development
 
@@ -28,12 +50,8 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/calculator_gem. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [code of conduct](https://github.com/[USERNAME]/calculator_gem/blob/master/CODE_OF_CONDUCT.md).
+Bug reports and pull requests are welcome on GitHub at https://github.com/[aramirezLox]/calculator_gem. This project is intended to be a safe, welcoming space for collaboration.
 
 ## License
 
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
-## Code of Conduct
-
-Everyone interacting in the CalculatorGem project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/[USERNAME]/calculator_gem/blob/master/CODE_OF_CONDUCT.md).
