@@ -54,7 +54,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[aramirezLox]/calculator_gem. This project is intended to be a safe, welcoming space for collaboration.
+Bug reports and pull requests are welcome on GitHub at https://github.com/aramirezLox/calculator_gem. This project is intended to be a safe, welcoming space for collaboration.
 
 ## License
 
